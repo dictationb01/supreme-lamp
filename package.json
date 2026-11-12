@@ -21,6 +21,7 @@
     "test:providers:live": "node scripts/run-provider-live.mjs"
   },
   "dependencies": {
+    "canvas": "^3.2.3",
     "i18next": "^23.15.1",
     "lucide-react": "^0.446.0",
     "react": "^18.3.1",
